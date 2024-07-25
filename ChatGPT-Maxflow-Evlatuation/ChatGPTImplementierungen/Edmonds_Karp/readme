@@ -1,0 +1,7 @@
+v1 = generic edmonds_karp
+v2 = adjacency matrix for capcities instead of capacity matrix
+v3 = Ring-Buffer-Queue for bfs
+v4 = Priority-Queue instead of Ring-Buffer-Queue
+v5 = Capacity Scaling
+v6 = bidirectional bfs
+v7 = edmonds_karpv5_parallel

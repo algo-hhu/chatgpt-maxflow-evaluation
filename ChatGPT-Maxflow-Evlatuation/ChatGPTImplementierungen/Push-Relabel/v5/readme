@@ -1,0 +1,3 @@
+buckets + global relabling + gap heuristik + parallelisierung
+
+compile with "-ltbb" flag

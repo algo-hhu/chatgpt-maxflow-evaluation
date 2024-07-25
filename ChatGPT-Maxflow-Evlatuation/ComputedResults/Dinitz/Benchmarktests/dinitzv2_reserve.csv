@@ -1,0 +1,9 @@
+Run,Graph,Duration
+1,adhead.n6c100,260.005
+2,adhead.n6c10,238.736
+3,bone.n6c100,103.866
+4,bone.n6c10,92.0531
+5,cells.sd2,32.2273
+6,cells.sd3,165.78
+7,foam.subset.r120.h210,33.7917
+8,foam.subset.r60.h210,5.72858

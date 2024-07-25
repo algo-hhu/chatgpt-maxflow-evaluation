@@ -1,0 +1,5 @@
+v1 = generic push-relabel
+v2 = bucket-list
+v3 = bucket-list + gap heuristik
+v4 = bucket-list + gap heuristik + global-relabeling
+v5 = v4 parallel -> need to compile with -ltbb, has tbb dependency

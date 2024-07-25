@@ -1,0 +1,19 @@
+check_max_flow.py:
+detailed explaination in the program
+
+
+graphGen.py:
+random graph generator
+
+
+run_edmonds_compare:
+used for the compare code from Vergleichsimplementierungen to run the program on all the files in a provided directory. Saves the computation time for each file in a .csv file
+
+
+run_multiple_programs.sh:
+tests the runtimes from one or more ChatGPT programs for a given input directory and saves the computation time in one .csv for each program.
+
+
+run_solve_dimiacs.sh: used to let the Goldberg-Tarjan-Cherkassky code run on all the files in a given input directory. Saves the computation time in a .csv
+
+

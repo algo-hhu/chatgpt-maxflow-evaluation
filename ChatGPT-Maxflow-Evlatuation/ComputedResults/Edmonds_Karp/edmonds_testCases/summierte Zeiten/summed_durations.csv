@@ -1,0 +1,9 @@
+File,Total Duration
+edmonds_karpv1.csv,144.420084
+edmonds_karpv2.csv,587.484075
+edmonds_karpv6.csv,42.272223000000004
+edmonds_karpv5_parallel.csv,328.95625700000005
+edmonds_karpv5.csv,271.09110300000003
+edmonds_karpv4.csv,250.483379
+edmonds_karpv3.csv,653.590874
+edmonds_karp_compare.csv,384.733

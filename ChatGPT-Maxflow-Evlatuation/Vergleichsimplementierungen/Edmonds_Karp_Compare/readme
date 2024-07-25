@@ -1,0 +1,15 @@
+for building this project please look at:
+
+https://github.com/Zagrosss/maxflow/tree/master
+
+
+Build guide (in maxflow-master directory):
+
+
+mkdir build && cd build
+cmake .. && make
+cd ..
+
+Example usage:
+
+./maxflow ek -f example.inp

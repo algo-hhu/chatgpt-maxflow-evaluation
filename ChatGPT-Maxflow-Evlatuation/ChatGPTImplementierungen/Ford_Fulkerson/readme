@@ -1,0 +1,3 @@
+v1 = generic Ford_Fulkerson
+v2 = dfs prioritizes edges with higher capacity
+v3 = Capacity Scaling

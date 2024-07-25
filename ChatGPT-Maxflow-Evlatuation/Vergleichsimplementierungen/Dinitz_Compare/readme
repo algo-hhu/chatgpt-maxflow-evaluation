@@ -1,0 +1,2 @@
+Compile with: g++ -O3 -I. -o dinics_program main.cpp Dinics.cpp DinicsStats.cpp utils.cpp ghtree.cpp
+
