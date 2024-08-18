@@ -1,0 +1,12 @@
+v1 = generic version
+v2 = reserve memory
+v3 = Layer Skipping 
+v4 = Capacity Scaling 
+v5 = Dynamic Level Graph Updates (DLGU) 
+v6 = v5 + parallel BFS (compile with -ltbb), tbb library necessary
+
+
+MemoryPools = v4 + Memory Pools + own Memory management (no improvement, because the time to read in the graph is not included in the calculation time)
+v2 = still got tested because ChatGPT said that it supposedly would still be an improvement for the computation  time because of better cache management.
+dinitzEdgeSorting = sorts Edges in DFS (very slow, not used in the thesis by ChatGPT recommendation)
+
