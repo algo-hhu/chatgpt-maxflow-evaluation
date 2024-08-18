@@ -6,8 +6,8 @@ Dieses Repository enthält die Ergebnisse der Bachelorarbeit von Joschua Theyhse
 ## Struktur
 - `ChatGPTChats/`: Die Chatverläufe mit ChatGPT.
 - `ChatGPTImplementations/`: Enthält die ChatGPT-Implementierungen aus der Arbeit.
-- `Compare_implementations` : Enthält die Vergleichsimplementierungen die in der Arbeit verwendet wurden.
-- `ComputedResults` : Enthält die Ergebnisse für die Berechnungsdauer aus der Arbeit.
+- `Compare_implementations/` : Enthält die Vergleichsimplementierungen die in der Arbeit verwendet wurden.
+- `ComputedResults/` : Enthält die Ergebnisse für die Berechnungsdauer aus der Arbeit.
 - `Scripts/`: Skripte und Programme, die zur Analyse der Daten verwendet wurden.
 - `Testfiles/`: Datensätze die im Rahmen der Arbeit verwendet wurden.
 
